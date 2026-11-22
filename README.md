@@ -14,7 +14,6 @@ The project covers infrastructure design, deployment, security configuration, an
 
 ![AWS Three-Tier Architecture](diagrams/architecture.png)
 
-[View the architecture in Lucidchart](https://lucid.app/lucidchart/26ef7f72-acf5-471f-ba1b-3a6713204586/edit)
 
 ## Architecture Overview
 
